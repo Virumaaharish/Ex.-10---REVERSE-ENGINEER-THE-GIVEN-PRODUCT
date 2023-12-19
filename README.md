@@ -32,11 +32,19 @@
 
 ## Input:
 
+
+![image](https://github.com/Virumaaharish/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146074950/7b3d7ed9-6168-4b03-a009-b13dd8ae7e6e)
+
+
 ### Output:
 
 
-### Name:
-### Register Number:
+![Screenshot 2023-12-19 081408](https://github.com/Virumaaharish/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146074950/a3f500e3-2897-4fb1-905f-5bd8e9572cd2)
+
+
+
+### Name:Virumaa harish.M
+### Register Number:23013147
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
